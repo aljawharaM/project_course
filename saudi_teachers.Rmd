@@ -1,19 +1,19 @@
 ---
 title: "Analysis of Teachers' Recruitment in Saudi Arabia Between 1437 and 1440"
 subtitle: "Data from Saudi Open Data Office"
-author: "Areej Mohamme Osman"
+author: "Areej Mohammed Osman"
 date: "6 March 2021"
 output: pdf_document
 ---
 
-Group Number:
+Group Number: Team 1
 
 Group Members' Names (IDs):
 
 1. Asrar Almutairi (2201000537)- Alkadi Mutlaq (2201003964) -- Team Leader
 2. Aljawhara Khalid (2201001960) -- Member 1
-3. Ibtesam faleh (2201002692)- Elham Khatim(220100144) -- Member 2
-4. Alohoud faleh (2201002394) -- Member 3
+3. Ibtesam Faleh (2201002692)- Elham Khatim (2201001444) -- Member 2
+4. Alohoud Faleh (2201002349) -- Member 3
 
 
 
